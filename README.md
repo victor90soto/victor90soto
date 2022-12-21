@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+❯ I develop data-driven solutions to automate and facilitate the sales process in sales teams. Through the use of tools like Fuzzy Matching and Web Scraping (both in Python), I can perform tasks that would take hours to be performed by a team of approximately 20 people, in just a fraction of the time.
+
+❯ With great apretiantion for Data Analysis and Statistics, on the last last 3 years I've been working and studying topics such as Business Inteligence, Machine Learning and programing languages (Python and R). I love to discover, investigate and being able to extract insights from raw data, for me that's some kind of modern alchemy!
+
+❯ If you want to discuss a bit more of everything mentioned before, you can hit me up at: victor90soto@yahoo.com.br
+
 <!--
 **victor90soto/victor90soto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
