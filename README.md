@@ -6,16 +6,16 @@
 Skills 💪
 
 
-As a student of data analytics and sales operations professional 📈, I have strong skills in the following areas:
+As a student of data analytics and sales operations professional, I have strong skills in the following areas:
 
-Excel 💻: Proficient in creating macros 🤖 and using VBA 🧑‍💼, as well as utilizing Power Query 🔌 to manipulate and analyze data 📊.
+Excel 💻: Proficient in creating macrosand using VBA, as well as utilizing Power Query to manipulate and analyze data.
 
-Power BI 📊: Skilled in using M and DAX 📈 to create powerful data visualizations 📈, as well as using Power Query 🔌 to transform and load data 📊.
+Power BI 📊: Skilled in using M and DAX to create powerful data visualizations, as well as using Power Query to transform and load data.
 
-SQL 💾: Experienced in using a variety of SQL commands and functions 💻, including window functions 🖥️, CTEs 📊, subqueries 🔍, and joins 🔗.
+SQL 🔍: Experienced in using a variety of SQL commands and functions, including window functions, CTEs, subqueries, and joins.
 
-Python 🐍: Proficient in web scraping 🕸️, using fuzzy matching algorithms 🔍, and implementing cloud-based solutions (CGP) 🤖 for data analysis 📊. I am also skilled in cleaning and manipulating data 🧹 using Python 🐍, as well as using the Selenium library 🕷️ for proccess automation 🧪.
+Python 🐍: Proficient in web scraping, using fuzzy matching algorithms, and implementing cloud-based solutions (CGP) for data analysis. I am also skilled in cleaning and manipulating data using Python, as well as using the Selenium library for proccess automation.
 
 
-I am always looking to expand and improve my skills 🧠, and am eager to take on new challenges 💪 and learn new technologies 🤖.
+I am always looking to expand and improve my skills, and am eager to take on new challenges and learn new technologies.
 -->
